@@ -51,9 +51,6 @@ Plugin 'jistr/vim-nerdtree-tabs'
 "超级搜索	--按Ctrl+P就可以进行搜索
 Plugin 'kien/ctrlp.vim'
 
-"Git集成
-Plugin 'tpope/vim-fugitive'
-
 " All of your Plugins must be added before the following line
 
 call vundle#end()            " required
